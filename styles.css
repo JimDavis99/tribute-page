@@ -1,1 +1,41 @@
+img {
+  height: auto;
+  display: block;
+  max-width: 100%;
+  width: 50%;
+  margin: auto;
+  }
 
+main {
+  display: ;
+  justify-content: center
+
+}
+
+body {
+  background-color: #383f57;
+  color: #ccd3ed;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+}
+
+ul {
+  text-align: left;
+  margin: auto;
+  max-width: 550px;
+  line-height: 1.6
+}
+
+li {
+  margin: 16px;
+}
+
+a {
+  color: #89bbf5;
+  text-decoration: none;
+}
+
+a:hover {
+  color: navy
+}
